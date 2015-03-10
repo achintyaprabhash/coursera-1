@@ -1,0 +1,156 @@
+1)
+How many commits do you think the new repository contains?
+- 0
+What command could you use to find out?
+- git log
+
+
+2)
+Run the command git init and git status in the directory with reflections.
+- On branch master
+Initial commit
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	reflections.txt
+nothing added to commit but untracked files present (use "git add" to track)
+
+
+3) 
+Which file(s) will you add? Why?
+- it depends. I can add one or all files at once. it always depends on what I want.
+Paste the output of git status here:
+- On branch master
+Initial commit
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   reflections.txt
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	lesson_2_reflections.txt
+
+
+4)
+Concept Map
+- staging area -> Git
+- satatus -> working directory
+- satatus -> staging area
+- add -> staging area
+
+
+5)
+What is the output of git status after all your changes are committed?
+- On branch master
+nothing to commit, working directory clean
+
+
+6) 
+What two versions does each form of git diff compare?
+git diff
+- working directory - staging area
+git diff --staged
+- staging area - commit1
+git diff commit1 commit2
+- commit1 - commit2
+
+
+7)
+Paste the output of git status here:
+- On branch easy-mode
+nothing to commit, working directory clean
+
+
+8) 
+Commits listed for branch
+- a: 3fc, f26, e3d
+- b: 4d9, 7dc, 2c4, e3d
+Unreachable commits
+- f36
+
+
+9)
+Merging files
+A Unknown
+B yes
+C Unknown
+D yes
+E Unknown
+
+
+10)
+Merging files
+A no
+B yes
+C yes
+D yes
+E yes
+
+
+11)
+Current History Diagram
+- check all except "easy/ easy-mode"
+
+
+12)
+Did you merged the branches?
+- Yes, and I did not make the coins yellow
+
+
+13)
+Merging files
+A yes
+B no
+B' Unknown
+B" Unknown
+D yes
+
+
+14)
+Asteroid = function() {  
+  this.breakIntoFragments = function () { 
+    for (var i = 0; i < 2; i++) {
+      var roid = $.extend(true, {}, this);
+      roid.vel.x = Math.random() * 6 - 3; 
+      roid.vel.y = Math.random() * 6 - 3; 
+      if (Math.random() > 0.5) {
+        roid.points.reverse();
+      }    
+      roid.vel.rot = Math.random() * 2 - 1; 
+      roid.move(roid.scale * 3); // give them a little push
+      Game.sprites.push(roid);
+    }    
+  };
+
+  this.collision = function (other) {
+    SFX.explosion();
+    if (other.name == "bullet") Game.score += 120 / this.scale;
+    this.scale /= 3;
+    if (this.scale > 0.5) {
+      this.breakIntoFragments();
+
+    }
+  };
+};
+
+
+15)
+Paste the output of git log -n 1
+- commit f701542c0374ba355b251c72d62ab488fde41bf6
+Author: hpcosta <hpcosta@uma.es>
+Date:   Mon Mar 9 17:37:56 2015 +0100
+    Merge branch 'master' into easy-mode
+   Conflicts:
+    game.js
+
+
+16)
+Concept Map
+- diff -> branch -> commit
+- merge -> commit
+
+
+
+
+
+
+
+

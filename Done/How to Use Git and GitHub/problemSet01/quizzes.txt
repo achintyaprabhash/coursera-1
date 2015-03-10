@@ -1,0 +1,105 @@
+1)
+A
+B
+$
+C
+#
+%
+E
+F
+
+
+2) 
+Check all the statements that would be true if you tracked changes using Git:
+- Using git diff to compare the two versions would show the same changes as diff -u did in the previous exercice.
+- To save two versions of the file, you would create two commits.
+
+
+3) 
+Git command review
+Compare two commits, printing each line that is present in one commit but not the other.
+- git diff
+Make a copy of an entire Git repository, including the history, onto your own computer.
+- git clone
+Temporarily reset all the files in a repository to their state at the time of a specific commit.
+- git checkout
+Show the commits made in a repository, starting with the most recent.
+- git log
+
+
+4) 
+Behavior of git clone
+- True in both cases: If someone else gives you the location of their directory or repository, you can copy or clone it to your own computer
+- True when you clone: The history of changes to the directory or repository is copied
+- True in both cases: If you make changes to the copied directory or cloned repository, the original will not change
+- True in both cases: The state of every file in the directory or repository is copied
+
+
+5) 
+For this git log output, check all the commits you would expect to contains code for mute button.
+- commit 7be5...
+- commit 06d7...
+
+
+6)
+Select the commend for which the mute button code lines would be shown as additions.
+- git diff 3d4... 06d7...
+
+
+7)
+Behavior of git checkout
+- Somethimes true: Checking out an earlier commit will change the state of at least one file
+- Somethimes true: Checking out an earlier commit will change the state of more than one file
+- Somethimes true: Checking out an earlier commit will change the state of every file in the repository
+- Always true: After checking out a commit, the state of all the files in the repository will be from the same point in time
+
+
+8)
+Cloning a new repository - Which of the following people are creators of the game? Select all that apply.
+- Kushagra
+- Rishabh
+
+
+9)
+Buggy behavior - Which commit ontroduced the buggy behavior?
+- 547f41
+> git checkout fa4c6bade4970c282b3870ad16f1bde8164663a9
+> git log
+> git checkout 708bcce690e5faa5739bd471507c102ea16b77f7
+> git checkout 547f4171a82ec6429d002c1acef357aec41d3f17
+
+
+10)
+Changes Introduced - Which of the following changes was made?
+- An "or" expression was separated out into several "if" statements
+> git diff 71d52709ddc4066e7a79a1d0a412e43429a0cdeb 547f4171a82ec6429d002c1acef357aec41d3f17
+File changed - Which file was affected by the buggy commit?
+- utils.js
+
+
+11) Based on the commit messages, which commit do you think introduced the bug preventing that pappu clones from appearing?
+- 003c8c197
+> git log
+> commit 003c8c197cd3b1e5b28b58f53ee14d7ebaa9bb3a
+Author: Rishabh Pugalia <rishabh.pugalia@gmail.com>
+Date:   Wed Dec 12 13:59:27 2012 +0530
+
+    speeding clones up
+
+
+12)
+Changes introduced - Which of the following changes was made in the buggy commit?
+- In the buggy commit, the x and y coordinate of each clone is changed by a large random amount.
+> git diff 746f762e38b5bbb7d0b837464ef6ec3f8ee5bf91 003c8c197cd3b1e5b28b58f53ee14d7ebaa9bb3a
+File changed - Which file was affected by the buggy commit?
+- pappu.js
+
+
+
+
+
+
+
+
+
+

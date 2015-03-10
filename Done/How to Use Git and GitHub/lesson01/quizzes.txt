@@ -1,0 +1,56 @@
+Enter the line numbers that have changed:
+- 6,16,17,18
+
+
+What word contains a typo in the new version of game_new.js but not in the old version?
+> diff -u game_old.js game_new.js
+- spacr
+
+
+When to save - As a programmer, when would you want to have a version of your code saved?
+- When you choose to save a version
+
+
+Concept Map: diff - If you were to put "git diff" on the map, which existing concept(s) would you directly connect it with? Mark all that applu.
+- commit 
+- git
+
+
+Would the following be good commit sizes?
+- Too big: you commit all the changes required to add a new feature, which you're been working on for a week. You haven't committed since you started wotking on it.
+- Too small: You find three typos in your README. You fix and commit the first.
+- Just right: You commit all the changes required to add a new feature, which you're been working on for an hour.
+- Too big: You fix two small bugs in different functions and commit them both at once.
+
+
+Tracking across files - Check the box to each example below in which it makes sense to track multiple files together rather than separately:
+- competition-style coding
+- html and css files that make up a webpage
+- a novel, split up by chapter
+
+
+Using git log and git diff - What is the ID of the commit with the message "Revert controls"?
+- b0678b161fcf74467ed3a63110557e3d6229cfa6
+How many lines were added in that commit? 
+- 4
+How many lines were deleted?
+- 4
+> git diff f19cb1b80fe27e938e4d72770ca0a42f25e99ecc b0678b161fcf74467ed3a63110557e3d6229cfa6
+
+
+Concept map
+- log operates-on repository
+
+
+Which of the following is NOT a Git error or warning?
+- Panic! (the 'impossible' happened)
+
+
+What is the ID of the first commit with the bug?
+- 25ede836903881848fea811df5b687b59d962da3
+> git log 
+> git checkout #commitID
+> see if there it has a bug or not
+> continue to checkout older commits till find one with a bug
+
+

@@ -1,0 +1,19 @@
+Title: My bio
+
+Nowadays, I am a Marie Curie Early Stage Researcher in the Department of Translation and Interpreting at the Faculty of Philosophy and Humanities, University of Malaga, Spain. My main research interest lie in the Computational Linguistics and Artificial Intelligence areas, especially its practical application in the fields of Translation Technologies, Natural Language Processing, Information Extraction and Information Retrieval. I am also interested in (or I worked on) a number of other topics such as Recommender Systems, Multiagent Systems, Affective Computing, amongst others.
+
+ 
+
+I completed my BSc and MSc on Informatics Engineering in the Bologna model at the Department of Informatics Engineering of the University of Coimbra (UC) in 2010. It was during my Master degree that I started my research activities. In particular, I developed a system capable of acquiring semantic knowledge from any kind of Portuguese text. Besides that, I also analysed the benefits of applying similarity distributional metrics, based on the occurrence of words in documents, on the system outputs. In the same academic year, I applied for a research grant to work in the "Automatic Construction of Ontologies in Portuguese" project, where I explored popular distributional similarity measures with the purpose of quantify relational triples in an automatic fashion. Furthermore, in September 2011, I was invited by LAP LAMBERT Academic Publishing to publish my MSc thesis. The book was published on October 2011 named "Automatic Extraction and Validation of Lexical Ontologies from Text: Creating Lexical Ontologies from text".
+
+In a total of six years, I studied at the aforementioned institution, developing skills on the field of Computer Science, except in the academic year of 2007/2008 where I integrated the Erasmus program for a year at the University of Vigo, Spain. During this period, besides starting to acquire skills in the Natural Language Processing area, I also developed my skills in interpersonal relations (meeting Erasmus students from other cultures and languages), teamwork, research, organisation and autonomy which enabled me to develop writing and speaking skills in Spanish, as well as in English.
+
+In October 2010, I applied for a scholarship and, between December 2010 and August 2013, I worked on the project "Forms of Selective Attention in Intelligent Transportation Systems", at the Cognitive and Media Systems (CMS) group, at the Department of Informatics Engineering of the University of Coimbra. In this project, a two-parted agent architecture was implemented, with an agent responsible for gathering Points of Interest (POIs) from a location-based service, and a set of Personal Assistant Agents (PAAs) collecting information about the context and the intentions of its respective user. In each PAA were embedded a set of Machine Learning algorithms, with the purpose of ascertaining how well-suited these classifiers are for filtering irrelevant POIs, in a completely automatic fashion.
+
+During the Autumn 2011, I also developed an online service for browsing Portuguese semantic relations for the Linguateca project. It is also important to mention that I have three years of experience on teaching area. In the first two years I taught at Lousã Professional School (2010/2011 and 2011/2012) and in the academic year 2012/2013 I taught at Coimbra Institute of Engineering (ISEC).
+
+As always, I am highly motivated to find new challenges that defy his competences and skills in computer science field. That is why I enrolled the doctoral program in September 2013 at the Department of Translation and Interpreting, at the Faculty of Philosophy and Humanities of the University of Malaga, Spain. 
+
+
+
+As we can see I am a science person :)

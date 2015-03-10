@@ -4,11 +4,15 @@ My courses
 Here you can find tips and solutions for some of the courses I enrolled.
 
 * Doing
-	* Python - http://www.codecademy.com/en/tracks/python [Codecademy]
 	* Corpus Linguistics: Method, Analysis, Interpretation [FutureLearn]
 	* A hands-on introduction to statistics with R [DataCamp]
 
 * Completed
+	* Python [Codecademy]
+	* Ser más creativo [Coursera]
+	* Pensamiento Científico [Coursera]
+	* How to Use Git and GitHub [Udacity]
+	* Python - http://www.codecademy.com/en/tracks/python [Codecademy]
 	* Pensamiento Algorítmico [Coursera]
 	* Data Science - Specialization [Coursera]
 		* The Data Scientist's Toolbox 

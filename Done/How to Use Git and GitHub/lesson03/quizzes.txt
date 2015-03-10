@@ -1,0 +1,108 @@
+1) 
+Check the commits that will be sent
+- fd2 and e53
+
+
+2)
+Which of the following is true?
+- neither
+
+3)
+Concept Map
+- Git -> GitHub
+- clone -> remote
+- push -> remote
+- pull -> remote
+
+
+4)
+Local 
+- branch
+GitHub
+- Fork
+Local
+- clone
+GitHub + Local
+- clone
+
+
+5)
+origin	https://github.com/hpcosta/recipes.git (fetch)
+origin	https://github.com/hpcosta/recipes.git (push)
+
+
+6)
+Where was your commit present?
+In yuour local repository (visible via git log)
+- Right before and after running git push
+On your fork (visible via the commit history on GitHub)
+- Right after running git push
+On Larry's repository 
+- none
+
+
+7)
+Where do these commits exist?
+A commit by Larry with the message "Add a chili recipe"
+- Exists locally and Exists on your fork
+A commit by you adding a new spice to the chili recipe
+- Exists locally 
+A commit by Sarah with the message "Remove cumin from chili"
+- Exists on your fork
+
+
+8)
+Output before and after git fetch
+Before: 
+- git log origin/master: add chili recipe
+- git status: ahead
+After: 
+- git log origin/master: add chili recipe & remoce cumin
+- git status: out-of-sync
+
+
+9)
+Merging remote changes
+- On branch master
+Your branch is up-to-date with 'origin/master'.
+
+
+10)
+Select the cases that you can reach a from b, so you can do a fast-forward merge.
+
+
+11)
+What gets changed?
+edit and save README.md
+- local working directory
+git add README.md
+- local staging area
+git commit
+- local master branch
+git pull origin master
+- local working directory & local staging area & local master branch 
+git push origin master 
+- GitHub master branch
+merge alt pull request
+- GitHub master branch
+
+
+12)
+https://github.com/hpcosta/recipes/pull/1
+
+
+13)
+Merging a pull request
+- commit e20ebae7dec4e4c8315ecee638372dbc25788787
+Merge: 7e2254c 54bee1f
+Author: Hernani Costa <hernanimax@gmail.com>
+Date:   Tue Mar 10 18:17:09 2015 +0100
+    Merge pull request #1 from hpcosta/new
+    change recipe
+
+14)
+- fork -> GitHub
+- fast-forward merge -> branch
+- fetch -> pull
+- merge -> pull request
+

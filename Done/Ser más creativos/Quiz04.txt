@@ -1,0 +1,43 @@
+
+Heurísticas y modelos
+
+
+1. 
+Las heurísticas son corazonadas educadas que se usan cuando hay poco tiempo o información para tomar decisiones
+Verdadero
+
+2. 
+Una de las fases del modelo Osborn-Parnes es la búsqueda de aceptación del producto o servicio desarrollado.
+Verdadero
+
+3. 
+Design thinking fue desarrollado por un académico de Stanford e involucra inspiración, ideación e implementación.
+Verdadero
+
+4. 
+Design thinking critica el uso de prototipos.
+Falso
+
+5. 
+La heurística de autoridad implica que se obliga a otro a tomar una decisión.
+Falso
+
+6. 
+Design thinking está dirigido exclusivamente a diseñadores gráficos e industriales.
+Falso
+
+7. 
+En el modelo Osborn-Parnes es necesario evaluar las soluciones propuestas con base en rubros que uno mismo crea y pondera.
+Verdadero
+
+8. 
+En Design thinking no importa la rentabilidad de la idea, sólo la medida en que es original.
+Falso
+
+9. 
+En Design thinking se exploran soluciones con usuarios típicos.
+Falso
+
+10. 
+Polya sugería hacer dibujos de los problemas para visualizarlos de otra forma.
+Verdadero

@@ -1,0 +1,35 @@
+Evaluación por Pares - My project
+
+Lavadora inteligente 
+
+Osborn y Parnes
+
+1.- BÚSQUEDA DEL CAOS
+Quero criar uma máquina de lavar roupa mais inteligente. Contudo, quero que seja acessível a todos os bolsos, i.e. pretendo criar pelo menos duas versões: uma para o cidadão com menos posses e outra mais avançada e consequentemente mais cara. Eventualmente o sistema terá de ser um pouco diferente de modos a que possa baixar o preço e ter uma versão mais económica.
+ 
+
+2.-IDENTIFICACIÓN DE HECHOS
+Todos nós sabemos o que é uma máquina de lavar roupa! Contudo, não sei se já se perguntaram o porquê do detergente ser um produto que não está integrado com a máquina/ com o programa de lavagem. Em outras palavras, todas as máquinas de lavar roupa que já tive nenhuma indica/ aconselha sobre a quantidade de detergente que se deve colocar para um determinado programa de lavagem.
+Programas longos, em teoria requerem mais detergente e programas curtos requerem menos detergente. Roupa mais suja ou com nódoas requerem mais detergente e roupa de desporto, por exemplo, requerem menos detergente. A questão que se coloca neste momento é como é que relacionamos as três coisas, i.e. detergente/ tipo de roupa/ programa.
+ 
+ 
+3.- DEFINICIÓN DEL PROBLEMA
+Concerteza já vos aconteceu colocar demasiado detergente e no final do programa a roupa vir ainda com espuma, ou o contrário, colocar pouco detergente e a roupa ainda sair com as mesmas manchas. Em outros casos acontece que a roupa sai a cheirar mal (isto acontece especialmente com as toalhas de banho). Estes são exemplos de problemas visíveis. Contudo, existe ainda um outro problema, este acaba por ser um pouco indireto. O problema da quantidade de detergente. Em outras palavras, quando a roupa sai a a cheirar mal ou com nódoas, o que normalmente se faz é voltar a lavar a roupa, certo? Este processo tem várias consequências: 1) vamos gastar mais água do que deveríamos; 2) vamos gastar mais eletricidade do que o necessário; e possivelmente vamos gastar detergente que o necessário caso o programa fosse devidamente escolhido e a quantidade de detergente fosse a correta para o tipo de roupa e o programa em questão.
+Nesta fase do processo do modelo de Osborn - Parnes penso que seria bastante útil perguntar ao utilizador final a sua opinião sobre o assunto, a sua experiência e que outro tipo de problemas encontro. Penso que ao analisar o tipo de problemas encontrados por estes utilizadores iriam ajudar a gerar ainda mais ideias na seguinte fase.
+ 
+ 
+4.-BÚSQUEDA DE IDEAS
+Do meu ponto de vista, penso que o computador que as máquinas de lavar têm seriam fáceis de programar para que tivessem mais opções, das quais destaco as seguintes:
+- apesentar no monitor da máquina (sim, a máquina de lavar teria de ter um monitor - na verdade muitas das máquinas que existem no mercado já trazem um monitor digital-, não precisava de ser muito grande, poderia ter 3' ou 4' - penso que seria suficiente para o tipo de informação a apresentar) a quantidade de detergente que um determinado programa necessita em média.
+Para isso a máquina necessitaria de duas coisas: calcular o peso da roupa que está dentro da máquina; e perguntar ao utilizador se a roupa está muito suja/ com nódoas ou pouco suja. Ou como alternativa, sugerir o tipo de programa com base nessa mesma informação e a quantidade de detergente que o programa necessitaria.
+- outra ideia passa por criar um dispensador de detergente. Veja-se o seguinte link para perceberem a que me refiro (http://www.enxcodex.com/tienda/118-lampara-tipo-dispensador-de-agua-led.html). A ideia seria instalar/ criar um recipiente na máquina de modo a que se pudesse verter o detergente (liquido ou sólido) que compramos no supermercado para que depois a máquina de lavar o possa gerir consoante o programa e suas necessidades. Por exemplo, em programas longos seria boa ideia ir usando pequenas quantidades de detergente ao longo do programa (algo que não acontece com as máquinas de lavar atuais - se pensarmos, as atuais mandam jatos de água para a zona onde está o detergente, não havendo controlo nenhum sobre a quantidade de detergente que em seguida entra na máquina).
+- ao invés do dispensador, a máquina de lavar poderia vir com um conjunto de cápsulas de diferentes tamanhos. Veja-se o seguinte link onde aparece uma máquina de café da Nescafe e as suas cápsulas (http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=http...) para que se perceba o que quero dizer com cápsulas. Cada tamanho estaria associado a um programa ou vários e a dois tipos de roupa: muito suja e simplesmente suja. Assim, o utilizador enchia a cápsula associada ao tipo de programa que queria e ao tipo de sujidade da roupa com o seu detergente.
+ 
+ 
+5-Búsqueda de soluciones
+Criar um sistema de dispensa de detergente na máquina e assim o utilizador somente teria de colocar a roupa na máquina e dizer se a roupa está muito suja ou somente suja.
+Claro que existem várias questões que não estão a ser tidas em conta, como por exemplo, o tipo de roupa (lã, sintético, etc.) ou permitir que o utilizador escolha tudo manualmente, etc.
+ 
+
+6- Logro de la aceptación
+Em relação à aceitação, eu penso que se deveria fazer vários protótipos e pedir a várias pessoas (de diferentes idades, formação, de diferentes zonas geográficas, etc.) para testar os diferentes protótipos. Pedir o seu feedback e seguir melhorando a ideia para que num futuro próximo tenhamos máquinas mais amigas, não só do Homem mas também do ambiente.
