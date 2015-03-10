@@ -12,7 +12,6 @@ Here you can find tips and solutions for some of the courses I enrolled.
 	* Ser más creativo [Coursera]
 	* Pensamiento Científico [Coursera]
 	* How to Use Git and GitHub [Udacity]
-	* Python - http://www.codecademy.com/en/tracks/python [Codecademy]
 	* Pensamiento Algorítmico [Coursera]
 	* Data Science - Specialization [Coursera]
 		* The Data Scientist's Toolbox 
