@@ -46,7 +46,6 @@ complete <- function(directory, id = 1:332) {
         
         ## Loop over the passed id's
         for(i in id) {
-                
                 ## Pad the i to create a filename
                 filename <- sprintf("%03d.csv", i)
                 filepath <- paste(directory, filename, sep="/")
@@ -61,7 +60,6 @@ complete <- function(directory, id = 1:332) {
                 completeCases <- data[complete.cases(data),]
                 counts <- c(counts, nrow(completeCases))
         }
-        
         ## Return the data frame
         data.frame(id=ids, nobs=counts)
 }
